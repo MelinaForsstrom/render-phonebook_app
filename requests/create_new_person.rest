@@ -1,0 +1,11 @@
+POST http://localhost:3001/api/persons
+Content-Type: application/json
+
+{
+      "name": "Oarvid Lilland",
+      "number": "050-7363-538"
+}
+
+###
+
+

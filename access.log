@@ -1,0 +1,4 @@
+GET / 200 29 - 2.142 ms
+GET /api/persons 200 231 - 1.289 ms
+GET /api/persons 200 231 - 0.650 ms
+GET /testingg 404 147 - 1.276 ms
